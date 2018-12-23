@@ -10,13 +10,13 @@
 .sep-after:after, .sep-before:before {
   margin-top: 1em;
   margin-bottom: 1em;
-  border-bottom-color: #fffef4;
+  border-bottom-color: #fffff6;
 }
 
 .sidebar .widget-about.sep-after:after {
   margin-top: 1em;
   margin-bottom: 1em;
-  border-bottom-color: #fffef4;
+  border-bottom-color: #fffff6;
 }
 
 .widget-title {
@@ -48,16 +48,16 @@ div.container {
 }
 
 div.site {
-	background-color: #fffef4;
+	background-color: #fffff6;
 }
 
 body.page, body.type-posts, body.has-sidebar {
-	background-color: #fffef4;
+	background-color: #fffff6;
 }
 
 body.home, body.section {
 	/*background-color: #faf7e6;*/
-	/*background-color: #fffef4;*/
+	/*background-color: #fffff6;*/
 	font-family: "Lora", sans-serif;
 }
 
@@ -82,7 +82,7 @@ div.desc {
 	font-size: 1.125rem;
 }
 .sidebar {
-	background-color: #fffef4;
+	background-color: #fffff6;
 	font-family: "Lora", sans-serif;
 }
 
