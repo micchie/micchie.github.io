@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://micchie.github.io/</loc>
+    <lastmod>2018-12-11T20:09:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://micchie.github.io/posts/</loc>
+    <lastmod>2018-12-11T20:09:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://micchie.github.io/pubs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://micchie.github.io/services/</loc>
+  </url>
+  
+  <url>
+    <loc>https://micchie.github.io/posts/fast19/</loc>
+    <lastmod>2018-12-11T20:09:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://micchie.github.io/posts/sc19pc/</loc>
+    <lastmod>2018-09-30T23:28:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://micchie.github.io/posts/nsdi19/</loc>
+    <lastmod>2018-07-26T23:26:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://micchie.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://micchie.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
