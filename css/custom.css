@@ -81,11 +81,13 @@ div.desc {
 	margin-top: 0.5em;
 	font-size: 1.125rem;
 }
+/*
 .sidebar {
-	background-color: /*#CCFEF3*/#fffef4;
+	background-color: #fffef4;
 	font-family: "Lora", sans-serif;
 	width: 220px;
 }
+*/
 
 /* for pub */
 div.pub {
@@ -114,6 +116,6 @@ li.item {
 
 .has-sidebar .main {
     float: left;
-    margin-left: 200px;
+    /*margin-left: 300px;*/
     padding-left: 2em;
 }
