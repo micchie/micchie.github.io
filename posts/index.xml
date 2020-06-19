@@ -5,10 +5,19 @@
     <link>https://micchie.net/posts/</link>
     <description>Recent content in News on Michio Honda</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 28 Apr 2020 17:28:51 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2020 12:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://micchie.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>XXXXXX XXXXXX, my 1st phd student is joining in this winter and exploring OS designs for new devices! Meet up with him at USENIX HotStorage presenting his preliminary work!</title>
+      <link>https://micchie.net/posts/sajoin/</link>
+      <pubDate>Fri, 19 Jun 2020 12:00:00 +0100</pubDate>
+      
+      <guid>https://micchie.net/posts/sajoin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hayagui, an accelerator storage stack got in USENIX HotStorage&#39;20!</title>
