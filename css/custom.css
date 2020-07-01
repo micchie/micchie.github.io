@@ -100,7 +100,8 @@ span.pub {
 a.pub {
   border-bottom: none;
 }
-label.pub {
+
+label {
   display: inline-block;
 }
 
