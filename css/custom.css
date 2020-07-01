@@ -101,7 +101,7 @@ a.pub {
   border-bottom: none;
 }
 label {
-  display: inline-block;
+  display: block;
   font-family: "Lora", sans-serif;
 }
 
