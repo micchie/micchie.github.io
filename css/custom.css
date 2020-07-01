@@ -100,8 +100,8 @@ span.pub {
 a.pub {
   border-bottom: none;
 }
-#wrap #main #content .post #form label {
-  display: inline-block;
+label {
+  display: block;
   font-size: 0.4rem;
 }
 
