@@ -103,6 +103,7 @@ a.pub {
 
 label {
   display: inline-block;
+  font-weight: normal;
 }
 
 .pubent {
