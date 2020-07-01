@@ -101,6 +101,10 @@ a.pub {
   border-bottom: none;
 }
 
+.pub input {
+	display: none;
+}
+
 div.site-header, div.header-info {
   display: none;
 }
