@@ -112,11 +112,11 @@ label {
 .pubent input {
 	display: none;
 }
-.pubent label:before {
+.pubent label:after {
 	content: '\f0d7';
 	font-family: 'FontAwesome';
 }
-.pubent input:checked ~ label:before {
+.pubent input:checked ~ label:after {
 	content: '\f0d8';
 	font-family: 'FontAwesome';
 }
