@@ -101,8 +101,8 @@ a.pub {
   border-bottom: none;
 }
 label {
-  display: block;
-  font-family: "Lora", sans-serif;
+  display: inline-block;
+  font-size: 0.4rem;
 }
 
 .pubent {
