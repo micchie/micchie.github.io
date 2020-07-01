@@ -102,6 +102,7 @@ a.pub {
 }
 label {
   display: inline-block;
+  font-family: "Lora", sans-serif;
 }
 
 .pubent {
