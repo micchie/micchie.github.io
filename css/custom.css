@@ -101,20 +101,22 @@ a.pub {
   border-bottom: none;
 }
 
+/*
 .hidden_box {
   margin-top: -24px;
 }
-.hidden_box input {
+*/
+.pub input {
 	display: none;
 }
-.hidden_box .hidden_show {
+.pub .hidden_show {
 	height: 0;
 	padding: 0;
 	overflow: hidden;
 	opacity: 0;
 	transition: 0.8s;
 }
-.hidden_box input:checked ~ .hidden_show {
+.pub input:checked ~ .hidden_show {
 	padding: 10px 0;
 	height: auto;
 	opacity: 1;
