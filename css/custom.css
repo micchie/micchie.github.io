@@ -112,6 +112,10 @@ label {
 .pubent input {
 	display: none;
 }
+.pubent label:before {
+	content: '\f078';
+	font-family: 'FontAwesome';
+}
 .pubent .hidden_show {
 	height: 0;
 	padding: 0;
