@@ -101,10 +101,13 @@ a.pub {
   border-bottom: none;
 }
 
-.pub input {
+.hidden_box {
+  margin-top: -24px;
+}
+.hidden_box input {
 	display: none;
 }
-.pub .hidden_show {
+.hidden_box .hidden_show {
 	height: 0;
 	padding: 0;
 	overflow: hidden;
