@@ -115,6 +115,7 @@ label {
 .pubent label:after {
 	content: '\f0dd';
 	font-family: 'FontAwesome';
+	vertical-align: top;
 }
 
 .pubent .hidden_show {
