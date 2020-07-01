@@ -100,7 +100,7 @@ span.pub {
 a.pub {
   border-bottom: none;
 }
-label {
+#wrap #main #content .post #form label {
   display: inline-block;
   font-size: 0.4rem;
 }
