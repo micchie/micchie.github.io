@@ -113,9 +113,8 @@ label {
 	display: none;
 }
 .pubent label:after {
-	content: '\f0dd';
+	content: '\f0d7';
 	font-family: 'FontAwesome';
-	vertical-align: top;
 }
 
 .pubent .hidden_show {
