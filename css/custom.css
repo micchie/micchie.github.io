@@ -116,7 +116,7 @@ label {
 	content: '\f0d7';
 	font-family: 'FontAwesome';
 }
-.pubent input:checked + label:after {
+.pubent input:checked {
 	content: '\f0d8';
 	font-family: 'FontAwesome';
 }
