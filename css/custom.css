@@ -114,6 +114,11 @@ a.pub {
 	opacity: 0;
 	transition: 0.8s;
 }
+.hidden_box input:checked ~ .hidden_show {
+	padding: 10px 0;
+	height: auto;
+	opacity: 1;
+}
 
 div.site-header, div.header-info {
   display: none;
