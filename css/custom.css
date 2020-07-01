@@ -113,7 +113,7 @@ label {
 	display: none;
 }
 .pubent label:after {
-	content: '\f078';
+	content: '\f0dd';
 	font-family: 'FontAwesome';
 	font-size: 0.5rem;
 }
