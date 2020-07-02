@@ -112,7 +112,8 @@ a.pub {
 .pubent label:after {
 	display: inline-block;
 	content: '\f0d7';
-	font-family: 'FontAwesome';
+	font-family: 'FontAwesome 5 FREE';
+	font-weight: 900;
 	margin-left: 4px;
 	transition: 0.8s;
 }
