@@ -5,10 +5,19 @@
     <link>https://micchie.net/</link>
     <description>Recent content in Home on Michio Honda</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 30 Jun 2020 23:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2020 20:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://micchie.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>I will serve on the PC of ACM EuroSys 2021</title>
+      <link>https://micchie.net/posts/eurosys21pc/</link>
+      <pubDate>Fri, 31 Jul 2020 20:00:00 +0100</pubDate>
+      
+      <guid>https://micchie.net/posts/eurosys21pc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>&#34;Prism: Proxies without the Pain&#34; will appear in USENIX NSDI&#39;21!</title>
@@ -47,7 +56,7 @@
     </item>
     
     <item>
-      <title>I will serve on the (heavy) PC of USENIX ATC 2020</title>
+      <title>I will serve on the PC of USENIX ATC 2020</title>
       <link>https://micchie.net/posts/atc20pc/</link>
       <pubDate>Thu, 01 Aug 2019 23:28:51 +0100</pubDate>
       

@@ -4,12 +4,12 @@
   
   <url>
     <loc>https://micchie.net/</loc>
-    <lastmod>2020-06-30T23:00:00+01:00</lastmod>
+    <lastmod>2020-07-31T20:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://micchie.net/posts/</loc>
-    <lastmod>2020-06-30T23:00:00+01:00</lastmod>
+    <lastmod>2020-07-31T20:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -22,6 +22,11 @@
   
   <url>
     <loc>https://micchie.net/students/</loc>
+  </url>
+  
+  <url>
+    <loc>https://micchie.net/posts/eurosys21pc/</loc>
+    <lastmod>2020-07-31T20:00:00+01:00</lastmod>
   </url>
   
   <url>
