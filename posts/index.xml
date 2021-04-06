@@ -5,10 +5,19 @@
     <link>https://micchie.net/posts/</link>
     <description>Recent content in News on Michio Honda</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 04 Apr 2021 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Apr 2021 13:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://micchie.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Posted a [blog](https://michioh.medium.com/my-way-to-academia-postdoc-in-industry-and-two-body-problem-f92fce600db6) about my career</title>
+      <link>https://micchie.net/posts/postdoc/</link>
+      <pubDate>Tue, 06 Apr 2021 13:00:00 +0000</pubDate>
+      
+      <guid>https://micchie.net/posts/postdoc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Paste major update (https://github.com/micchie/paste)</title>
