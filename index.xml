@@ -5,10 +5,19 @@
     <link>https://micchie.net/</link>
     <description>Recent content in Home on Michio Honda</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 01 Jul 2021 23:28:51 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 23:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://micchie.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Got EPSRC New Investigator Award (£385k)</title>
+      <link>https://micchie.net/posts/nia/</link>
+      <pubDate>Mon, 12 Jul 2021 23:00:00 +0100</pubDate>
+      
+      <guid>https://micchie.net/posts/nia/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>I&#39;ll serve on the PC co-chair of ACM/IEEE ANCS&#39;21</title>

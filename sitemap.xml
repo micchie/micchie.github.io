@@ -4,12 +4,12 @@
   
   <url>
     <loc>https://micchie.net/</loc>
-    <lastmod>2021-07-01T23:28:51+01:00</lastmod>
+    <lastmod>2021-07-12T23:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://micchie.net/posts/</loc>
-    <lastmod>2021-07-01T23:28:51+01:00</lastmod>
+    <lastmod>2021-07-12T23:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -22,6 +22,11 @@
   
   <url>
     <loc>https://micchie.net/students/</loc>
+  </url>
+  
+  <url>
+    <loc>https://micchie.net/posts/nia/</loc>
+    <lastmod>2021-07-12T23:00:00+01:00</lastmod>
   </url>
   
   <url>
