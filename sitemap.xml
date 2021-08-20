@@ -1,110 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://micchie.net/</loc>
-    <lastmod>2021-07-12T23:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-08-20T22:22:00+01:00</lastmod>
+  </url><url>
     <loc>https://micchie.net/posts/</loc>
-    <lastmod>2021-07-12T23:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-08-20T22:22:00+01:00</lastmod>
+  </url><url>
     <loc>https://micchie.net/pubs/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://micchie.net/services/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://micchie.net/students/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://micchie.net/posts/hotnets21/</loc>
+    <lastmod>2021-08-20T22:22:00+01:00</lastmod>
+  </url><url>
     <loc>https://micchie.net/posts/nia/</loc>
     <lastmod>2021-07-12T23:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://micchie.net/posts/ancs21pc/</loc>
     <lastmod>2021-07-01T23:28:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://micchie.net/posts/postdoc/</loc>
     <lastmod>2021-04-07T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://micchie.net/posts/pasterel/</loc>
     <lastmod>2021-04-04T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://micchie.net/posts/scone21/</loc>
     <lastmod>2021-01-06T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://micchie.net/posts/atc21pc/</loc>
     <lastmod>2020-09-16T23:28:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://micchie.net/posts/eurosys21pc/</loc>
     <lastmod>2020-07-31T20:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://micchie.net/posts/nsdi21s/</loc>
     <lastmod>2020-06-30T23:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://micchie.net/posts/sajoin/</loc>
     <lastmod>2020-06-22T17:28:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://micchie.net/posts/hotstorage20/</loc>
     <lastmod>2020-04-28T17:28:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://micchie.net/posts/edi/</loc>
     <lastmod>2020-01-15T12:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://micchie.net/posts/atc20pc/</loc>
     <lastmod>2019-08-01T23:28:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://micchie.net/posts/fast19/</loc>
     <lastmod>2018-12-11T20:09:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://micchie.net/posts/sc19pc/</loc>
     <lastmod>2018-09-30T23:28:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://micchie.net/posts/nsdi19/</loc>
     <lastmod>2018-07-26T23:26:41+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://micchie.net/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://micchie.net/tags/</loc>
   </url>
-  
 </urlset>
