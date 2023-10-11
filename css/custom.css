@@ -69,9 +69,11 @@ h2.title, site-title {
 }
 h3 {
 	font-family: "Lora", sans-serif;
+	font-size: 1.2em;
 }
 h4 {
 	font-family: "Lora", sans-serif;
+	font-size: 1.2em;
 }
 
 .widget-about, .site-title {
