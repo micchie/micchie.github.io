@@ -6,8 +6,15 @@
     <description>Recent content in Home on Michio Honda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Sep 2025 14:22:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 08:22:00 +0100</lastBuildDate>
     <atom:link href="https://micchie.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stob paper accepted at HotNets</title>
+      <link>https://micchie.net/posts/hotnets25/</link>
+      <pubDate>Wed, 17 Sep 2025 08:22:00 +0100</pubDate>
+      <guid>https://micchie.net/posts/hotnets25/</guid>
+      <description></description>
+    </item>
     <item>
       <title>SDT paper accepted at IEEE S&amp;P (Oakland)</title>
       <link>https://micchie.net/posts/sp26/</link>
