@@ -51,6 +51,9 @@ div.site {
 	background-color: #fffff6;
 }
 
+body {
+	line-height: 1.4;
+}
 body.page, body.type-posts, body.has-sidebar {
 	background-color: #fffff6;
 }
@@ -98,6 +101,7 @@ span.pub {
   border: 1.5px solid #bf4444;
   border-radius: 6px;
   font-size: 0.9rem;
+  line-height: 2.7;
 }
 a.pub {
   border-bottom: none;
@@ -105,7 +109,7 @@ a.pub {
 
 .pubent {
   margin-top: -12px;
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .pubent label {
